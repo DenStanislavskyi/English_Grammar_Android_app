@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.luckycoin.english_grammar">
+
+<uses-permission android:name="com.android.alarm.permission.SET_ALARM"/>
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".welcome_screen"
+
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Main"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".grammar_topics"
+            android:label="@string/btnallgr"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Grammar_tests"
+            android:label="@string/btngralltests" />
+        <activity
+            android:name=".Reading"
+            android:label="@string/btnallreading"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".GrTopics.Grtopicstabs"
+            android:label="@string/title_activity_grtopicstabs"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".GrTests.TestsMain"
+            android:label="@string/btngralltests"/>
+        <activity android:name=".GrTests.result"
+            android:label="Result"></activity>
+        <receiver android:name=".MainFragments.Notif_reciver"/>
+    </application>
+
+</manifest>
