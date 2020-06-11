@@ -2,7 +2,7 @@
 
 Android app for learning English.
 
-![](1 main activity.jpg)
+![screenshot](screenshot1.jpg)
 ![](2 main activity.jpg)
 ![](3 main activity.jpg)
 ![](4 main activity.jpg)
