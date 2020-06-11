@@ -2,18 +2,25 @@
 
 Android app for learning English.
 
+## Main Activity
 ![screenshot](screenshot1.jpg)
-![](2 main activity.jpg)
-![](3 main activity.jpg)
-![](4 main activity.jpg)
-![](5 main activity.jpg)
-![](6 main activity.jpg)
-![](7 main activity.jpg)
-![](8 grammar topics.jpg)
-![](9 grammar topics.png)
-![](10 grammar tests.jpg)
-![](11 grammar tests.jpg)
-![](12 grammar tests.jpg)
-![](13 reading activity.jpg)
-![](14 reading activity.jpg)
-![](15 reading activity.jpg)
+![screenshot](screenshot2.jpg)
+![screenshot](screenshot3.jpg)
+![screenshot](screenshot4.jpg)
+![screenshot](screenshot5.jpg)
+![screenshot](screenshot6.jpg)
+![screenshot](screenshot7.jpg)
+
+## Grammar topics Activity
+![screenshot](screenshot8.jpg)
+![screenshot](screenshot9.png)
+
+## Test Activity
+![screenshot](screenshot10.jpg)
+![screenshot](screenshot11.jpg)
+![screenshot](screenshot12.jpg)
+
+## Reading Activity
+![screenshot](screenshot13.jpg)
+![screenshot](screenshot14.jpg)
+![screenshot](screenshot15.png)
