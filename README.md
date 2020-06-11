@@ -10,7 +10,7 @@ Android app for learning English.
 ![](6 main activity.jpg)
 ![](7 main activity.jpg)
 ![](8 grammar topics.jpg)
-![](9 grammar topics.jpg)
+![](9 grammar topics.png)
 ![](10 grammar tests.jpg)
 ![](11 grammar tests.jpg)
 ![](12 grammar tests.jpg)
